@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505731217942",
+    "project_id": "zerotel-6a866",
+    "storage_bucket": "zerotel-6a866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505731217942:android:47cb2df2ab7adf5a491337",
+        "android_client_info": {
+          "package_name": "com.example.zerotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505731217942-in9torphrpb012krmpqrjd0pn89sgfm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMMvo5JvPLX7KbJgUqT55s133Xnxv_70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505731217942-in9torphrpb012krmpqrjd0pn89sgfm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
